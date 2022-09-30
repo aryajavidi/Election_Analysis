@@ -12,6 +12,7 @@ The objective of this election audit activity is to use Python to write a text f
 ## Election-Audit Results
 
 ### How many votes were cast in this congressional election?
+
 Total Votes: 369,711
 
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -37,13 +38,18 @@ Raymon Anthony Doane: 3.1% (11,606)
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 Winner: Diana DeGette
+
 Winning Vote Count: 272,892
+
 Winning Percentage: 73.8%
+
 
 
 
 
 ## Election-Audit Summary
 
-The script that we have created in this activity would be a wonderful asset for local or federal government to gather insight regarding voter turnout and develop strategies to improve voter turnout in areas with significantly lower numbers or increase promotion and campaigning in counties or states with significantly higher voter turnout. If we were to repurpose this to be used for analyzing voter turnout for a federal election, we could use this script to identify voter turnout by state rather than by county and identify which states had higher or lower voter turnout and which candidates they voted for. Another way we could change this script to provide more detailed analysis would be to include the breakdown of votes per candidate per county to help identify which counties lean towards which side primarily. 
+The script that we have created in this activity would be a wonderful asset for local or federal government to gather insight regarding voter turnout and develop strategies to improve voter turnout in areas with significantly lower numbers or increase promotion and campaigning in counties or states with significantly higher voter turnout. 
+
+If we were to repurpose this to be used for analyzing voter turnout for a federal election, we could use this script to identify voter turnout by state rather than by county and identify which states had higher or lower voter turnout and which candidates they voted for. Another way we could change this script to provide more detailed analysis would be to include the breakdown of votes per candidate per county to help identify which counties lean towards which side primarily. 
 
