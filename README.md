@@ -1,7 +1,5 @@
 # Module_3_Challenge
 
-# Kickstarting with Excel
-
 ## Overview of Election Audit
 
 The purpose of this election audit analysis is to is to identify which country has the largest turnout of voters, the voter turnout for each county, and the percentage of votes from each county out of the total. This analysis can be used to identify trends or information within the datasets regarding voter turnout and total votes which can then be used by campaigning parties to make decisions on where to campaign and strategies to use while campaigning in certain counties. 
